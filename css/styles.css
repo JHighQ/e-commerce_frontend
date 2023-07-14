@@ -3,3 +3,8 @@
     padding:0;
     margin: 0;
 }
+p{
+    color: #1e1e1e;
+    font-size: 12px !important;
+    line-height: 2px;
+}
